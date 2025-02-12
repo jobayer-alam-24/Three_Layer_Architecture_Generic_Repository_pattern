@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AToZ", "AToZ\AToZ.csproj", "{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AToZDataAccessLayer", "AToZDataAccessLayer\AToZDataAccessLayer.csproj", "{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AToZBusinessLogicLayer", "AToZBusinessLogicLayer\AToZBusinessLogicLayer.csproj", "{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

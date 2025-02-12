@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\bin\Debug\net8.0\AToZDataAccessLayer.deps.json
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\bin\Debug\net8.0\AToZDataAccessLayer.dll
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\bin\Debug\net8.0\AToZDataAccessLayer.pdb
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\obj\Debug\net8.0\AToZDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\obj\Debug\net8.0\AToZDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\obj\Debug\net8.0\AToZDataAccessLayer.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\obj\Debug\net8.0\AToZDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\obj\Debug\net8.0\AToZDataAccessLayer.sourcelink.json
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\obj\Debug\net8.0\AToZDataAccessLayer.dll
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\obj\Debug\net8.0\refint\AToZDataAccessLayer.dll
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\obj\Debug\net8.0\AToZDataAccessLayer.pdb
+C:\Users\HP\OneDrive\Documents\Three_Layer_Architecture_Generic_Repository_pattern\AToZ\AToZDataAccessLayer\obj\Debug\net8.0\ref\AToZDataAccessLayer.dll

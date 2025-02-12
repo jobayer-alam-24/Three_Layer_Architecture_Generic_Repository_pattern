@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AToZ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+270d0becca67f9d2349c798ca3724d3f589da0e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b45a01db56fdfa5bab5f8edfe52f718c910057cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AToZ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AToZ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

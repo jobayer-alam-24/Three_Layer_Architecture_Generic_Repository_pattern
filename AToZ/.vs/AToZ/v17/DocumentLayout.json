@@ -1,12 +1,219 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}|AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atozbusinesslogiclayer\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}|AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj|solutionrelative:atozbusinesslogiclayer\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}|AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atozbusinesslogiclayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}|AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj|solutionrelative:atozbusinesslogiclayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}|AToZDataAccessLayer\\AToZDataAccessLayer.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atozdataaccesslayer\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}|AToZDataAccessLayer\\AToZDataAccessLayer.csproj|solutionrelative:atozdataaccesslayer\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}|AToZDataAccessLayer\\AToZDataAccessLayer.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atozdataaccesslayer\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}|AToZDataAccessLayer\\AToZDataAccessLayer.csproj|solutionrelative:atozdataaccesslayer\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}|AToZ\\AToZ.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atoz\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}|AToZ\\AToZ.csproj|solutionrelative:atoz\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}|AToZ\\AToZ.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atoz\\views\\customer\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}|AToZ\\AToZ.csproj|solutionrelative:atoz\\views\\customer\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}|AToZ\\AToZ.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atoz\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}|AToZ\\AToZ.csproj|solutionrelative:atoz\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}|AToZ\\AToZ.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atoz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD2D880-0DA6-40B6-B9CC-D0F5B5DE7590}|AToZ\\AToZ.csproj|solutionrelative:atoz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}|AToZDataAccessLayer\\AToZDataAccessLayer.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atozdataaccesslayer\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}|AToZDataAccessLayer\\AToZDataAccessLayer.csproj|solutionrelative:atozdataaccesslayer\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}|AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atozbusinesslogiclayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}|AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj|solutionrelative:atozbusinesslogiclayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}|AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atozbusinesslogiclayer\\atozbusinesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3998A3B-EC7F-40E3-AC6B-59F942C598D6}|AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj|solutionrelative:atozbusinesslogiclayer\\atozbusinesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}|AToZDataAccessLayer\\AToZDataAccessLayer.csproj|c:\\users\\hp\\onedrive\\documents\\three_layer_architecture_generic_repository_pattern\\atoz\\atozdataaccesslayer\\atozdataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B1AF8AC-6DFE-49E8-92A4-89F39EEAF6B9}|AToZDataAccessLayer\\AToZDataAccessLayer.csproj|solutionrelative:atozdataaccesslayer\\atozdataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZBusinessLogicLayer\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AToZBusinessLogicLayer\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZBusinessLogicLayer\\GenericRepository.cs",
+              "RelativeToolTip": "AToZBusinessLogicLayer\\GenericRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:13:13.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZDataAccessLayer\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AToZDataAccessLayer\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZDataAccessLayer\\IGenericRepository.cs",
+              "RelativeToolTip": "AToZDataAccessLayer\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:03:48.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZBusinessLogicLayer\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "AToZBusinessLogicLayer\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZBusinessLogicLayer\\CustomerRepository.cs",
+              "RelativeToolTip": "AToZBusinessLogicLayer\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:37:59.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZ\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "AToZ\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZ\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "AToZ\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:02:50.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZDataAccessLayer\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "AToZDataAccessLayer\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZDataAccessLayer\\ICustomerRepository.cs",
+              "RelativeToolTip": "AToZDataAccessLayer\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:20:20.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZ\\Views\\Customer\\List.cshtml",
+              "RelativeDocumentMoniker": "AToZ\\Views\\Customer\\List.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZ\\Views\\Customer\\List.cshtml",
+              "RelativeToolTip": "AToZ\\Views\\Customer\\List.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T17:06:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZ\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "AToZ\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZ\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "AToZ\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:30:34.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZDataAccessLayer\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "AToZDataAccessLayer\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZDataAccessLayer\\Entities\\Customer.cs",
+              "RelativeToolTip": "AToZDataAccessLayer\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:18:10.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZ\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AToZ\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZ\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AToZ\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T17:07:49.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZBusinessLogicLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AToZBusinessLogicLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZBusinessLogicLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AToZBusinessLogicLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:39:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AToZBusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj",
+              "RelativeToolTip": "AToZBusinessLogicLayer\\AToZBusinessLogicLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T16:17:06.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AToZDataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZDataAccessLayer\\AToZDataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "AToZDataAccessLayer\\AToZDataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Three_Layer_Architecture_Generic_Repository_pattern\\AToZ\\AToZDataAccessLayer\\AToZDataAccessLayer.csproj",
+              "RelativeToolTip": "AToZDataAccessLayer\\AToZDataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T16:16:02.379Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

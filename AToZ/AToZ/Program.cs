@@ -1,8 +1,13 @@
+using AToZBusinessLogicLayer;
+using AToZBusinessLogicLayer.Data;
+using AToZDataAccessLayer;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddDbContext<ApplicationDbContext>();
+builder.Services.AddTransient<ICustomerRepository,CustomerRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
